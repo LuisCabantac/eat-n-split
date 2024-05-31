@@ -1,6 +1,6 @@
 # Eat N' Split
 
-A bill splitting app.
+A bill splitting app. This project was made with Jonas Schmedtmann's The Ultimate React Course 2024.
 
 ## Features
 
